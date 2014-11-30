@@ -1,5 +1,7 @@
 # Reggie
 
+>  NOTE: This project is no longer maintained and you should look into other projects such as [Sinopia](https://github.com/rlidwka/sinopia)
+
 [![Build Status](https://travis-ci.org/mbrevoort/node-reggie.png?branch=master)](https://travis-ci.org/mbrevoort/node-reggie)
 [![NPM version](https://badge.fury.io/js/reggie.png)](http://badge.fury.io/js/reggie)
 
